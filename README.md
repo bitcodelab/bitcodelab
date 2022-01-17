@@ -4,47 +4,42 @@ I use this account to hold my personal repositories. These are projects I develo
 
 The languages I feel more passionate about, and have a higher degree of expertise, are:
 
-Java
-
-Python
-
-Php
-
-MySql
-
-Html+css
-
-Javascript
+Java<br>
+Python<br>
+Php<br>
+MySql<br>
+Html+css<br>
+Javascript<br>
 
 I also have programmed in the following languages before.
 
-Node.js
-C
-R
-Prolog
-Assembly
-Visual Basic
+Node.js<br>
+C<br>
+R<br>
+Prolog<br>
+Assembly<br>
+Visual Basic<br>
 
 I have knowledge of the following technologies, frameworks and IDEs.
 
-Linux
-Windows
-Apache server
-Laravel
-Netbeans
-Eclipse
-Vs code
-R studio
-Websockets
-Server-sent events
+Linux<br>
+Windows<br>
+Apache server<br>
+Laravel<br>
+Netbeans<br>
+Eclipse<br>
+Vs code<br>
+R studio<br>
+Websockets<br>
+Server-sent events<br>
 
 
 Bellow you can find some topics that interest me:
 
-Artificial intelligence
-Machine learning
-Data science
-Software development
+Artificial intelligence<br>
+Machine learning<br>
+Data science<br>
+Software development<br>
 
 
 
