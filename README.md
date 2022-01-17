@@ -1,6 +1,6 @@
 Hello and welcome,
 
-I use this account to hold my personal repositories. These are projects I develop in my free time, from ideas that pop up every once in a while. My dream is that someday there will be intelligent machines. In the meanwhile, I focus on developing clean, well documented, easy to mantain and efficient to run computer programs.
+I use this account to hold my personal repositories. These are projects I develop in my free time, from ideas that pop up every once in a while. My dream is that someday there will be intelligent machines. In the meanwhile, I focus on developing clean, well documented, easy to mantain and efficient to run computer code.
 
 The languages I feel more passionate about, and have a higher degree of expertise, are:
 
