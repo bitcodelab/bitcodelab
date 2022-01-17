@@ -29,14 +29,11 @@ I have knowledge of the following technologies, frameworks and IDEs.
 Linux
 Windows
 Apache server
--
 Laravel
--
 Netbeans
 Eclipse
 Vs code
 R studio
--
 Websockets
 Server-sent events
 
