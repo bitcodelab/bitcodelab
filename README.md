@@ -32,14 +32,16 @@ Vs code<br>
 R studio<br>
 Websockets<br>
 Server-sent events<br>
+Pycharm<br>
 
 
-Bellow you can find some topics that interest me:
+Topics of interest to me:
 
 Artificial intelligence<br>
 Machine learning<br>
 Data science<br>
 Software development<br>
+Mobile apps<br>
 
 
 
