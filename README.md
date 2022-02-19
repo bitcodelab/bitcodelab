@@ -10,10 +10,10 @@ Php<br>
 MySql<br>
 Html+css<br>
 Javascript<br>
+Node.js<br>
 
 I also have programmed in the following languages before.
 
-Node.js<br>
 C<br>
 R<br>
 Prolog<br>
