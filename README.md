@@ -1,6 +1,6 @@
 Hello and welcome,
 
-I use this account to hold my personal repositories. These are projects I develop as requested by clients or on my own free time. I focus on developing clean, well documented and easy to mantain computer code, that is efficient to run.
+I use this account to hold my personal repositories. These are projects I develop on my own free time when I am not developing applications as requested by clients. I focus on developing clean, documented and easy to mantain computer code, that is efficient to run.
 
 The languages I feel more passionate about, and have a higher degree of expertise, are:
 
