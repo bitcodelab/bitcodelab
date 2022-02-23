@@ -20,7 +20,7 @@ Prolog<br>
 Assembly<br>
 Visual Basic<br>
 
-I have knowledge of the following technologies, frameworks and IDEs.
+I have knowledge of the following technologies, frameworks, operating systems and IDEs.
 
 Linux<br>
 Windows<br>
@@ -37,10 +37,10 @@ Pycharm<br>
 
 Topics of interest to me:
 
+Software development<br>
 Artificial intelligence<br>
 Machine learning<br>
 Data science<br>
-Software development<br>
 Mobile apps<br>
 
 
