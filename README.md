@@ -1,6 +1,6 @@
 Hello and welcome,
 
-I use this account to hold my personal repositories. These are projects I develop in my free time, from ideas that pop up every once in a while. My dream is that someday there will be intelligent machines. In the meanwhile, I focus on developing clean, well documented, easy to mantain and efficient to run computer code.
+I use this account to hold my personal repositories. These are projects I develop as requested by clients or on my own free time. I focus on developing clean, well documented and easy to mantain computer code, that is efficient to run.
 
 The languages I feel more passionate about, and have a higher degree of expertise, are:
 
@@ -9,10 +9,9 @@ Python<br>
 Php<br>
 MySql<br>
 Html+css<br>
-Javascript<br>
-Node.js<br>
+Javascript / Node.js<br>
 
-I also have programmed in the following languages before.
+I can also write code in the following programming languages.
 
 C<br>
 R<br>
@@ -38,9 +37,9 @@ Pycharm<br>
 Topics of interest to me:
 
 Software development<br>
+Data science<br>
 Artificial intelligence<br>
 Machine learning<br>
-Data science<br>
 Mobile apps<br>
 
 
